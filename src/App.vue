@@ -1,17 +1,22 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-content>
+      <v-parallax src="./assets/wow.png"></v-parallax>
+      <h1>Thanksgivings 2018 - The convergence</h1>
+      <v-container fluid>
+        test
+      </v-container>
+    </v-content>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import parallaxHeader from './components/ParallaxHeader.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    parallaxHeader
   }
 }
 </script>
