@@ -1,6 +1,19 @@
 <template>
     <v-container>
         <h1>Thanksgivings 2018 - The convergence</h1>
+        <h3>Attendees</h3>
+        <ul>
+            <li>Grandaddy</li>
+            <li>Ann Reid</li>
+            <li>Add</li>
+            <li>Leigh</li>
+            <li>David</li>
+            <li>Johnny?</li>
+            <li>Brac?</li>
+            <li>Margie</li>
+        </ul>
+        <h2>Are you attending?</h2>
+        <p>Let me know here: <a href="mailto:david.stanford.gibson@gmail.com">Contact David</a></p>
         <h3>David</h3>
         <ul>
             <li>Turkey</li>
