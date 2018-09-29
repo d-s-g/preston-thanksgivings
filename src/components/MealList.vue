@@ -40,7 +40,7 @@
           <ul>
             <li>Vegetables dish</li>
           </ul>
-          <div class="m-t-5">
+          <div class="mt-5">
             <h2>Have</h2>
             <ul>
               <li>Main course</li>
